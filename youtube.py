@@ -12,4 +12,4 @@ print(f"Channel: {yt.channel_url}")
 
 """DownLoad Video"""
 # yd = yt.streams.get_highest_resolution()
-# yd.download(r"C:\Users\ADMIN\Videos")
+# yd.download(*)
